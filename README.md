@@ -65,7 +65,7 @@ Proyek ini memberikan wawasan yang berharga bagi tim HR perusahaan Jaya Jaya Maj
 
 Dengan adanya business dashboard yang dibuat dalam proyek ini, tim HR dapat secara efektif memantau berbagai faktor yang mempengaruhi karyawan dan mengambil langkah-langkah preventif untuk menjaga kepuasan dan loyalitas karyawan.
 
-### Rekomendasi Action Items (Optional)
+### Rekomendasi Action Items
 
 Berikut adalah beberapa rekomendasi berbasis data yang dapat dilakukan oleh perusahaan Jaya Jaya Maju untuk mengurangi tingkat attrition dan meningkatkan retensi karyawan:
 
