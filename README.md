@@ -48,7 +48,25 @@ from sklearn.preprocessing import MinMaxScaler
 
 ## Business Dashboard
 
-Jelaskan tentang business dashboard yang telah dibuat. Jika ada, sertakan juga link untuk mengakses dashboard tersebut.
+Dashboard yang dibuat bertujuan untuk membantu perusahaan Jaya Jaya Maju dalam memahami dan memantau tingkat attrition (keluar/berhenti) karyawan secara lebih efektif. Melalui tampilan visual yang interaktif, dashboard ini memberikan kemudahan dalam mengeksplorasi data karyawan berdasarkan berbagai karakteristik seperti jenis kelamin, status pernikahan, departemen, tingkat pendapatan, serta lama bekerja di perusahaan.
+
+Dashboard ini dibangun menggunakan Streamlit dan memanfaatkan visualisasi dari Plotly untuk menampilkan data dalam bentuk grafik batang, grafik lingkaran, dan histogram. Pengguna dapat menyaring data berdasarkan kategori tertentu melalui panel filter di sisi kiri, sehingga analisis dapat difokuskan pada kelompok karyawan tertentu sesuai kebutuhan.
+
+Beberapa fitur utama dalam dashboard:
+
+- Ringkasan Kunci:   
+Menampilkan jumlah karyawan, tingkat attrition, dan rata-rata usia secara langsung.
+
+- Analisis Perbandingan:   
+Menampilkan perbandingan rata-rata usia, gaji, atau karakteristik lainnya antara karyawan yang keluar dan yang bertahan.
+
+- Distribusi Karakteristik:   
+Menunjukkan komposisi karyawan berdasarkan atribut tertentu (misalnya jabatan, departemen, dll).
+
+- Pola Penyebaran:   
+Menjelaskan pola attrition berdasarkan sebaran nilai seperti pendapatan atau lama bekerja.
+
+Dashboard ini dirancang untuk digunakan oleh manajemen dan tim HR dalam pengambilan keputusan berbasis data, seperti merancang program retensi, mengevaluasi kebijakan kesejahteraan karyawan, serta mengidentifikasi kelompok yang berisiko tinggi untuk keluar dari perusahaan.
 
 ## Conclusion
 
