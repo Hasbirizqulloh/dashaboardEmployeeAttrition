@@ -30,7 +30,8 @@ Proyek ini akan mencakup:
 
 ### Persiapan
 
-Sumber data: Dataset karyawan dari perusahaan Jaya Jaya Maju yang berisi informasi demografi, pekerjaan, kepuasan kerja, dan status attrition.
+Sumber data:    
+Dataset karyawan dari perusahaan Jaya Jaya Maju yang berisi informasi demografi, pekerjaan, kepuasan kerja, dan status attrition.
 
 Setup environment:
 
