@@ -68,6 +68,10 @@ Menjelaskan pola attrition berdasarkan sebaran nilai seperti pendapatan atau lam
 
 Dashboard ini dirancang untuk digunakan oleh manajemen dan tim HR dalam pengambilan keputusan berbasis data, seperti merancang program retensi, mengevaluasi kebijakan kesejahteraan karyawan, serta mengidentifikasi kelompok yang berisiko tinggi untuk keluar dari perusahaan.
 
+### 🌐 Akses Dashboard
+
+📎 [Klik di sini untuk membuka dashboard secara online](https://dashboardmonitoring.streamlit.app/)
+
 ## Conclusion
 
 Berdasarkan analisis yang dilakukan pada data karyawan perusahaan Jaya Jaya Maju, tujuan utama proyek ini adalah untuk mengidentifikasi faktor-faktor yang mempengaruhi tingginya tingkat attrition (keluarnya karyawan) dan memberikan rekomendasi berbasis data untuk membantu mengurangi tingkat attrition di masa depan. Berikut adalah beberapa kesimpulan utama yang dapat diambil dari hasil analisis ini:
