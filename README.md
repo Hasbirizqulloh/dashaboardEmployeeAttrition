@@ -31,21 +31,16 @@ Proyek ini akan mencakup:
 ### Persiapan
 
 Sumber data:    
-Dataset karyawan dari perusahaan Jaya Jaya Maju yang berisi informasi demografi, pekerjaan, kepuasan kerja, dan status attrition.
-
+Dataset yang digunakan berasal dari repository github [dicoding](https://github.com/dicodingacademy/dicoding_dataset/tree/main/employee) dan berisi informasi demografi, jabatan, kepuasan kerja, serta status attrition karyawan. Dataset ini umum digunakan untuk analisis dan prediksi dalam bidang HR.
 Setup environment:
 
+Setup Environment - Shell/Terminal (venv)
 ```
-import pandas as pd
-import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
-import plotly.express as px
-import joblib
-from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.linear_model import LogisticRegression
-from sklearn.metrics import classification_report, confusion_matrix, accuracy_score
+python -m venv env  
+# Aktifkan environment:  
+# Windows: .\env\Scripts\activate  
+# MacOS/Linux: source env/bin/activate  
+pip install -r requirements.txt  
 ```
 
 ## Business Dashboard
